@@ -13,9 +13,14 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 | Project Title | Description | Technologies Used | Date Completed |
 | ----------- | ----------- |-----------          | -----------    |
-| Scrabble | TBC | JavaScript | 
-| Airport | TBC | JavaScript | 
-
-
+| <a href="https://github.com/RebeccaM21/SpotifyClone--React"> Spotify Clone | TBC | React, NodeJS, Bootstrap |
+| <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> DFX Profile | TBC | React, Bootstrap, NodeJS, MongoDB, Express, AWS |
+| <a href="https://github.com/RebeccaM21/ChitterChallenge--FullStack"> Chitter | TBC | React, Bootstrap, NodeJS, MongoDB, Express |
+| <a href="https://github.com/RebeccaM21/RockPaperScissorsChallenge"> Rock Paper Scissors Game | TBC | NodeJS, Express |
+| <a href="https://github.com/RebeccaM21/NewsChallenge--React"> News | TBC | React, Bootstrap, Jasmine |
+| <a href="https://github.com/RebeccaM21/ScrabbleChallenge--JAVA"> Scrabble | TBC | JAVA |
+| <a href="https://github.com/RebeccaM21/BankChallenge--JavaScript"> Bank | TBC | JavaScript |
+| <a href="https://github.com/RebeccaM21/AirportChallenge--JavaScript"> Airport | TBC | JavaScript |
+| <a href="https://github.com/RebeccaM21/ScrabbleChallenge--JavaScript"> Scrabble | TBC | JavaScript |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebeccaM21)](https://github.com/anuraghazra/github-readme-stats)
