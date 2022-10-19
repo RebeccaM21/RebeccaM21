@@ -5,13 +5,15 @@
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="" height="30" width="40" /></a>
+<a href="https://jasmine.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99371800/196663863-e6c018d4-b93d-4a5a-a24c-9439c348fe52.png" alt="" height="30" width="40" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="" height="30" width="40" /></a>
 <a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="" height="30" width="40" /></a>
 <br>
+<a href="https://www.chaijs.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99371800/196662957-b8143701-7a91-4798-a945-9eda29527fa3.png" alt="" height="30" width="40" /></a>
 <a href="https://expressjs.com/en/api.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/express-js.png" alt="" height="30" width="40" /></a>
-<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="" height="30" width="40" /></a>
-<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="" height="30" width="40" /></a>
 <a href="https://docs.oracle.com/javase/8/docs/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="" height="30" width="40" /></a>
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="" height="30" width="40" /></a>
+<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="" height="30" width="40" /></a>
 </p>
 
 
