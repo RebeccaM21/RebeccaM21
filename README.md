@@ -25,9 +25,9 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 | <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> DFX Profile | TBC | React, Bootstrap, NodeJS, MongoDB, Express, AWS |
 | <a href="https://github.com/RebeccaM21/ChitterChallenge--FullStack"> Chitter | TBC | React, Bootstrap, NodeJS, MongoDB, Express |
 | <a href="https://github.com/RebeccaM21/RockPaperScissorsChallenge"> Rock Paper Scissors Game | TBC | NodeJS, Express |
-| <a href="https://github.com/RebeccaM21/NewsChallenge--React"> News | TBC | React, Bootstrap, Jasmine |
+| <a href="https://github.com/RebeccaM21/NewsChallenge--React"> News | TBC | React, Bootstrap |
 | <a href="https://github.com/RebeccaM21/ScrabbleChallenge--JAVA"> Scrabble | TBC | JAVA |
-| <a href="https://github.com/RebeccaM21/BankChallenge--JavaScript"> Bank | TBC | JavaScript |
+| <a href="https://github.com/RebeccaM21/BankChallenge--JavaScript"> Bank | TBC | JavaScript, Jasmine |
 | <a href="https://github.com/RebeccaM21/AirportChallenge--JavaScript"> Airport | TBC | JavaScript |
 | <a href="https://github.com/RebeccaM21/ScrabbleChallenge--JavaScript"> Scrabble | TBC | JavaScript |
 
