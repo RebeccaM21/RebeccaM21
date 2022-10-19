@@ -2,10 +2,16 @@
 
 <h3 align="left">Languages Used</h3>
 <p align="center">
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/bootstrap.svg" alt="" height="30" width="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/javascript.svg" alt="" height="30" width="40" /></a>
-<a href="https://reactjs.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/react.svg" alt="" height="30" width="40" /></a>
-<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/nodedotjs.svg" alt="" height="30" width="40" /></a>
+<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="" height="30" width="40" /></a>
+<a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="" height="30" width="40" /></a>
+<br>
+<a href="https://expressjs.com/en/api.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/express-js.png" alt="" height="30" width="40" /></a>
+<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="" height="30" width="40" /></a>
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="" height="30" width="40" /></a>
+<a href="https://docs.oracle.com/javase/8/docs/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="" height="30" width="40" /></a>
 </p>
 
 
