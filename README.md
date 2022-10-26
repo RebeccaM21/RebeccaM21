@@ -36,7 +36,7 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 <strong> 1. Software Engineering Pathway - Digital Futures </strong>
 <br> June - August 2022
 
-- Completed the academy with a 100% pass rate in all seven coding challenges
+- Completed the academy with a pass rate in all seven coding challenges
 - Designed and built full-stack web applications primarily in React and JavaScript, with emphasis placed on self-led learning to become a self-starter capable of learning new languages in a short timeframe
 - Collaborated in Agile teams with the main focus on pair programming and Git workflow 
 
