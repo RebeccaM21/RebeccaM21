@@ -33,45 +33,61 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 <h3 align="left">💻 Coding Experience</h3>
 
-1. Software Engineering Pathway - Digital Futures - June - August 2022
+<strong> 1. Software Engineering Pathway - Digital Futures </strong>
+<br> June - August 2022
 
-2. Learn JavaScript Course - CodeAcademy - Issued June 2022
+- Completed the academy with a 100% pass rate in all seven coding challenges
+- Designed and built full-stack web applications primarily in React and JavaScript, with emphasis placed on self-led learning to become a self-starter capable of learning new languages in a short timeframe
+- Collaborated in Agile teams with the main focus on pair programming and Git workflow 
 
-3. Learn How To Code Course - CodeAcademy - Issued December 2021
+<strong> 2. Agile Explorer - IBM Skills Network </strong>
+<br> Issued September 2022
 
+<strong> 3. Learn JavaScript Course - Codecademy </strong>
+<br> Issued June 2022
+
+<strong> 4. Learn How To Code Course - Codecademy </strong>
+<br> Issued December 2021
 
 <h3 align="left">💼 Work Experience</h3>
 
-1. Crew Member, McDonald's
+<strong> Crew Member, McDonald's </strong>
+<br> January 2022 - August 2022
 
-2. Personal Assistant, MAMS Accounting
+<strong> Personal Assistant, MAMS Accounting </strong>
+<br> July 2019 - January 2022
 
-3. Tutor Assistant, AE Tuition
+<strong> Teaching Assistant, AE Tuition </strong>
+<br> October 2016 - June 2018
 
 <h3 align="left">🧠 Skills</h3>
 
-Quick Learner
+<strong> Quick Learner </strong>
 - Self-taught how to play the guitar and piano, and self-taught singer. 
-- Self-taught HTML & CSS prior to the Digital Futures Academy 
+- Self-taught HTML & CSS prior to the Digital Futures Academy
 
-Creative Thinker
-- Write music (lyrics & melodies) 
+<strong> Creative Thinker </strong>
+- As well as being self-taught in various musical instruments, I also write musical compositions and have performed in various public events. When writing compositions, I produce both the lyrics and the accompanying melodies which requires a lot of attention to detail.
 
-Problem Solver
+<strong> Problem Solver </strong>
+- During my time in the Digital Futures Academy, we had many opportunities for self-led projects (all of which are listed above). This helped me to develop my own individual problem-solving skills and how to approach debugging code. I also learnt how to effectively communicate when there are blockers in my progress, so that I can receive the relevant help and reduce further delays in  completing the project.
 
-Pair programming
+<strong> Pair programming </strong>
+- The majority of the Digital Futures Academy involved pair programming, and the academy concluded with a four-week long Agile team engineering project. Pair programming helped me to improve my coding skills, as well as develop my communication skills when working in teams. 
+- To facilitate pair programming, we used Miro and Trello to create collaborative boards and divide the relevant tasks amongst the team members. 
+- During the four-week long Agile team engineering project, we help stand-ups, retrospectives and learned how to work with a project manager to produce a satisfactory end product.
 
-Communication 
+<strong> Communication </strong>
+- During my time as a personal assistant in MAMS Accounting, I liased with clients to resolve the concerns within their accounts via phone calls and physical meetings. This allowed me to engage with different types of people and develop my skills in patience and communication. 
+- During my time as a crew member in McDonald's, I was exposed to many different types of people and learned how to resolve conflicts with difficult customers.
 
 <h3 align="left">📚 Academic History</h3>
 
-BSc Cognitive Neuroscience & Psychology, The University of Manchester, 2018 - 2021
+<strong> BSc Cognitive Neuroscience & Psychology, The University of Manchester, 2018 - 2021 </strong>
 
-Langley Grammar School, 2011 - 2018 
-- 3 As in Chemistry, Biology and Psychology at A level 
-- 1 B in History at AS level
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebeccaM21)](https://github.com/anuraghazra/github-readme-stats)
+<strong> Langley Grammar School, 2011 - 2018 </strong>
+- 3 A levels (AAA) in Biology, Chemistry & Psychology
+- 12 GCSEs (A* - B including Mathematics, Triple Sciences & English)
 
 <h2 align="center">Connect with me:</h2>
 
