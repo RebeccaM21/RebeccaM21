@@ -51,9 +51,6 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 <h3 align="left">💼 Work Experience</h3>
 
-<strong> Crew Member, McDonald's </strong>
-<br> January 2022 - August 2022
-
 <strong> Personal Assistant, MAMS Accounting </strong>
 <br> July 2019 - January 2022
 
@@ -79,7 +76,6 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 <strong> Communication </strong>
 - During my time as a personal assistant in MAMS Accounting, I liased with clients to resolve the concerns within their accounts via phone calls and physical meetings. This allowed me to engage with different types of people and develop my skills in patience and communication. 
-- During my time as a crew member in McDonald's, I was exposed to many different types of people and learned how to resolve conflicts with difficult customers.
 
 <h3 align="left">📚 Academic History</h3>
 
