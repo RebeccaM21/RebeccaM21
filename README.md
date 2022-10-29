@@ -21,6 +21,7 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 | Project Title | Description | Technologies Used | Date Completed |
 | ----------- | ----------- |-----------          | -----------    |
+| <a href="https://github.com/RebeccaM21/MemoriesPage"> 'Memories' Profile Page | TBC | React, NodeJS, Bootstrap, Express, MongoDB |
 | <a href="https://github.com/RebeccaM21/SpotifyClone--React"> Spotify Clone | TBC | React, NodeJS, Bootstrap |
 | <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> DFX Profile | TBC | React, Bootstrap, NodeJS, MongoDB, Express, AWS |
 | <a href="https://github.com/RebeccaM21/ChitterChallenge--FullStack"> Chitter | TBC | React, Bootstrap, NodeJS, MongoDB, Express |
