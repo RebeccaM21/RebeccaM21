@@ -54,9 +54,10 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 <strong> IMG Arena - Graduate Software Engineer </strong>
 <br> April 2023 - Present
-Performed highly across four teams, two back-end and two front-end focussed, to contribute to the delivery of scalable and well-tested JavaScript applications using React and Next.JS.
-Utilised AWS Cloud Services and JAVA, alongside other back-end engineers, to improve the quality of video streaming for an optimal user experience.
-Extensive use of unit tests & playwright tests to produce well-tested JavaScript applications with 90%+ coverage.
+
+- Performed highly across four teams, two back-end and two front-end focussed, to contribute to the delivery of scalable and well-tested JavaScript applications using React and Next.JS.
+- Utilised AWS Cloud Services and JAVA, alongside other back-end engineers, to improve the quality of video streaming for an optimal user experience.
+- Extensive use of unit tests & playwright tests to produce well-tested JavaScript applications with 90%+ coverage.
 
 <strong> Personal Assistant, MAMS Accounting </strong>
 <br> July 2019 - January 2022
