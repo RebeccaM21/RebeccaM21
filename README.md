@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages Used</h3>
 <p align="center">
-<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="[https://img.icons8.com/color/48/000000/css3.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)" alt="" height="30" width="40" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="" height="30" width="40" /></a>
 <a href="https://jasmine.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99371800/196663863-e6c018d4-b93d-4a5a-a24c-9439c348fe52.png" alt="" height="30" width="40" /></a> 
@@ -20,8 +20,6 @@ Below are some projects that demonstrate my technical skills:
 
 | Project Title | Description | Technologies Used | Date Completed |
 | ----------- | ----------- |-----------          | -----------    |
-| <a href="https://github.com/RebeccaM21/MemoriesPage"> 'Memories' Profile Page | TBC | React, NodeJS, Bootstrap, Express, MongoDB |
-| <a href="https://github.com/RebeccaM21/SpotifyClone--React"> Spotify Clone | TBC | React, NodeJS, Bootstrap |
 | <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> DFX Profile | TBC | React, Bootstrap, NodeJS, MongoDB, Express, AWS |
 | <a href="https://github.com/RebeccaM21/ChitterChallenge--FullStack"> Chitter | TBC | React, Bootstrap, NodeJS, MongoDB, Express |
 | <a href="https://github.com/RebeccaM21/RockPaperScissorsChallenge"> Rock Paper Scissors Game | TBC | NodeJS, Express |
