@@ -2,14 +2,13 @@
 
 <h3 align="left">Languages Used</h3>
 <p align="center">
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" height="30" width="40" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="[https://img.icons8.com/color/48/000000/css3.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="" height="30" width="40" /></a>
 <a href="https://jasmine.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99371800/196663863-e6c018d4-b93d-4a5a-a24c-9439c348fe52.png" alt="" height="30" width="40" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="" height="30" width="40" /></a>
 <a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="" height="30" width="40" /></a>
 <br>
-<a href="https://www.chaijs.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99371800/196662957-b8143701-7a91-4798-a945-9eda29527fa3.png" alt="" height="30" width="40" /></a>
 <a href="https://expressjs.com/en/api.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/express-js.png" alt="" height="30" width="40" /></a>
 <a href="https://docs.oracle.com/javase/8/docs/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="" height="30" width="40" /></a>
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="" height="30" width="40" /></a>
@@ -17,7 +16,7 @@
 </p>
 
 
-During the Digital Futures bootcamp, I studied full-stack software engineering. The course focused on pair programming, solo challenges and team engineering projects. Below are the projects that demonstrate my technical skills:
+Below are some projects that demonstrate my technical skills:
 
 | Project Title | Description | Technologies Used | Date Completed |
 | ----------- | ----------- |-----------          | -----------    |
@@ -31,6 +30,21 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 | <a href="https://github.com/RebeccaM21/BankChallenge--JavaScript"> Bank | TBC | JavaScript, Jasmine |
 | <a href="https://github.com/RebeccaM21/AirportChallenge--JavaScript"> Airport | TBC | JavaScript |
 | <a href="https://github.com/RebeccaM21/ScrabbleChallenge--JavaScript"> Scrabble | TBC | JavaScript |
+
+<h3 align="left">💼 Work Experience</h3>
+<strong>  Associate Software Engineer - Holland & Barrett </strong>
+<br> July 2024 - Present
+
+- Led the migration of the checkout page within the app to a company-wide backend tool, ensuring seamless integration and improved functionality
+- Demonstrated strong communication skills by effectively translating complex technical concepts and decisions for non-technical audiences, specifically when working with UX and QA teams
+- Displayed a strong product mindset, consistently prioritizing customer needs and leveraging data-driven insights to resolve customer complaints and enhance the user experience
+
+<strong>  Graduate Software Engineer - IMG ARENA </strong>
+<br> April 2023 - June 2024
+
+- Performed highly across four teams, two back-end and two front-end focussed, to contribute to the delivery of scalable and well-tested JavaScript applications using React and Next.JS.
+- Utilised AWS Cloud Services and JAVA, alongside other back-end engineers, to improve the quality of video streaming for an optimal user experience.
+- Extensive use of unit tests & playwright tests to produce well-tested JavaScript applications with 90%+ coverage.
 
 <h3 align="left">💻 Coding Experience</h3>
 
@@ -49,21 +63,6 @@ During the Digital Futures bootcamp, I studied full-stack software engineering. 
 
 <strong> 4. Learn How To Code Course - Codecademy </strong>
 <br> Issued December 2021
-
-<h3 align="left">💼 Work Experience</h3>
-
-<strong> IMG Arena - Graduate Software Engineer </strong>
-<br> April 2023 - Present
-
-- Performed highly across four teams, two back-end and two front-end focussed, to contribute to the delivery of scalable and well-tested JavaScript applications using React and Next.JS.
-- Utilised AWS Cloud Services and JAVA, alongside other back-end engineers, to improve the quality of video streaming for an optimal user experience.
-- Extensive use of unit tests & playwright tests to produce well-tested JavaScript applications with 90%+ coverage.
-
-<strong> Personal Assistant, MAMS Accounting </strong>
-<br> July 2019 - January 2022
-
-<strong> Teaching Assistant, AE Tuition </strong>
-<br> October 2016 - June 2018
 
 <h3 align="left">🧠 Skills</h3>
 
