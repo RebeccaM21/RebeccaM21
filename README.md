@@ -20,7 +20,7 @@ Below are some projects that demonstrate my technical skills:
 
 | Project Title | Description | Technologies Used | Date Completed |
 | ----------- | ----------- |-----------          | -----------    |
-| <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> Real Estate App | TBC | React Native |
+| <a href="https://github.com/RebeccaM21/real-estate-app"> Real Estate App | TBC | React Native |
 | <a href="https://github.com/RebeccaM21/TeamChallenge--FrontEnd"> DFX Profile | TBC | React, Bootstrap, NodeJS, MongoDB, Express, AWS |
 | <a href="https://github.com/RebeccaM21/ChitterChallenge--FullStack"> Chitter | TBC | React, Bootstrap, NodeJS, MongoDB, Express |
 | <a href="https://github.com/RebeccaM21/RockPaperScissorsChallenge"> Rock Paper Scissors Game | TBC | NodeJS, Express |
